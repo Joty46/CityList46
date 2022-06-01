@@ -6,6 +6,8 @@ import java.util.Comparator;
 import java.util.List;
 
 public class CityList {
+
+
     private List<City> cities=new ArrayList<>();
 
     /**
